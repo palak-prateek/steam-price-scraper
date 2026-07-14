@@ -48,7 +48,7 @@ steam-price-scraper/
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/palak-prateek/steam-price-scraper.git
 cd steam-price-scraper
 ```
 
@@ -112,6 +112,7 @@ The scraper will periodically check the Steam Store and send an email whenever t
 
 ## Example Notification
 
+<img width="2206" height="776" alt="image" src="https://github.com/user-attachments/assets/ae3253e0-7ea2-49c2-892c-48b88185e6bf" />
 
 
 ---
