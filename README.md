@@ -8,12 +8,12 @@ This project demonstrates web scraping, environment-based configuration, automat
 
 ## Features
 
-* 🎮 Scrapes the latest game price directly from the Steam Store.
-* 📉 Detects when the current price falls below a target price.
-* 📧 Sends automated email notifications using Resend.
-* ⚙️ Stores configuration securely with environment variables.
-* 📝 Logs application events and errors for easier debugging.
-* ⏱️ Runs continuously with a configurable check interval.
+* Scrapes the latest game price directly from the Steam Store.
+* Detects when the current price falls below a target price.
+* Sends automated email notifications using Resend.
+* Stores configuration securely with environment variables.
+* Logs application events and errors for easier debugging.
+* Runs continuously with a configurable check interval.
 
 ---
 
